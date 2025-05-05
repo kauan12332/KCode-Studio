@@ -23,7 +23,7 @@
 }
 
 :root{
-    --cor1:#7F0BD9;
+    --cor1:#06010b;
     --cor2:#6a11cb;
     --cor3:#c10bd9;
     --cor4:#3C0BD9;
@@ -79,8 +79,8 @@ body {
 }
 .carousel-item{
     flex: 0 0 auto;
-    width: 300px;
-    height: 200px;
+    width: 450px;
+    height: 350px;
     background-color: #ffffff1a;
     border-radius: 12px;
     scroll-snap-align:center;
