@@ -188,6 +188,13 @@ body {
     background: rgba(0, 0, 0, 0.4);
     font-size: 0.9rem;
 }
+.rodape-contato {
+    background: rgba(128, 128, 128, 0.467);
+    border-radius: 15px;
+    text-align:left;
+    width: 30%;
+    padding: 10px;
+}
 /* Animação fade-in */
 .fade-in {
   opacity: 0;
