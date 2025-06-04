@@ -49,6 +49,20 @@ body {
     text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.545);
 }
 
+.jogos{
+    background-color: #00000043;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+.link{
+    text-decoration: none;
+    background-color: blueviolet;
+    font-size: 1.9rem;
+    border-radius: 10px;
+}
 .header {
     background: transparent;
     padding: 10px 0;
@@ -70,7 +84,7 @@ body {
 }
 
 .section {
-    padding: 60px 0;
+    padding: 70px 0;
     text-align: center;
 }
 
